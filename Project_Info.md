@@ -16,6 +16,6 @@ Warren Low Keng Hoong, Soh Wei Kiat, Zhou Chengyang, Xu Yuqing
 
 
 # External sources used in the making  
-https://github.com/Qidian213/deep_sort_yolov3
+https://github.com/Qidian213/deep_sort_yolov3  
 Stack Overflow articles
 
