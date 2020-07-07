@@ -6,6 +6,11 @@
    ```
    python3 demo.py / minimalist.py
    ```
+# Output
+There are 2 outputs, original video with bounding boxes and labels, and minimalist video with just the labels. <br>
+![original]() <br>
+![minimalist](simplified.gif)
+
 
 
 
@@ -21,8 +26,8 @@
   Additionally, feature generation requires TensorFlow-1.4.0.
 
 # Acknowledgements
-  Most of the code were pulled from QiDian's respository found [here](https://github.com/Qidian213/deep_sort_yolov3)
-  I only implemented the respository's code for the school setting and studied its effectiveness
-  Some of the script was also edited such that it can be run on Google Colabotory
+  Most of the code were pulled from QiDian's respository found [here](https://github.com/Qidian213/deep_sort_yolov3) <br>
+  I only implemented the respository's code for the school setting and studied its effectiveness. <br>
+  Some of the script was also edited such that it can be run on Google Colabotory. <br>
 
 
