@@ -8,7 +8,7 @@
    ```
 # Output
 There are 2 outputs, original video with bounding boxes and labels, and minimalist video with just the labels. <br>
-![original](output_yolov3.gif) <br>
+![original](output-yolov3.gif) <br>
 ![minimalist](simplified.gif)
 
 
