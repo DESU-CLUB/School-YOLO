@@ -4,11 +4,12 @@
 
 2. Run YOLO_DEEP_SORT with cmd :
    ```
-   python3 demo.py / minimalist.py
+   python3 demo.py
+   python3 minimalist.py
    ```
 # Output
 There are 2 outputs, original video with bounding boxes and labels, and minimalist video with just the labels. <br>
-![original](output-yolov3.gif) <br>
+![original](output-yolov3.gif)
 ![minimalist](simplified.gif)
 
 
