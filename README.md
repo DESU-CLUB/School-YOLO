@@ -9,7 +9,7 @@ A project to assist Hwa Chong in automating their Covid-19 monitoring operations
 
  Run the code with cmd (Recommended if your computer has a powerful GPU): 
  ```
-     python3 COMBINED_GUI.py
+     python3 Combined_GUI.py
  ```
  After a while, the video files should be outputted in output_videos folder 
  
