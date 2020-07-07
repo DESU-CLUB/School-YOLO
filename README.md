@@ -1,7 +1,7 @@
-<img src = 'logo.png' alt= 'HCIRS LOGO')>  
+<div align = 'center'><img src ='logo.png' alt= 'HCIRS LOGO'></div>
 
 
-Made by Soh Wei Kiat, Warren Low Keng Hoong, Zhou Chengyang and Xue Yuqing 
+<div align = 'center'>Made by Soh Wei Kiat, Warren Low Keng Hoong, Zhou Chengyang and Xue Yuqing</div>
 
 # School-YOLO
 A project to assist Hwa Chong in automating their Covid-19 monitoring operations in the canteen
