@@ -64,7 +64,7 @@ This flag is to check whether user would like to include a visual representation
     Keras
 ```
 
-#Acknowledgements
+# Acknowledgements
 Most of the code were pulled from QiDian's respository found [here](https://github.com/Qidian213/deep_sort_yolov3) <br>
 Also, StackOverflow was also consulted in the making of this repository
 
