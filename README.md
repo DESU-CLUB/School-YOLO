@@ -1,7 +1,7 @@
-<div align = 'center'><img src ='display/logo.png' alt= 'HCIRS LOGO'></div>
-<br/>
+<p align="center"><img src ='display/logo.png' alt= 'HCIRS LOGO' height = 300 width = 600></p>
 
-<div align = 'center'>Made by Soh Wei Kiat, Warren Low Keng Hoong, Zhou Chengyang and Xue Yuqing</div>
+
+<p align="center">>>Made by Soh Wei Kiat, Warren Low Keng Hoong, Zhou Chengyang and Xue Yuqing</p>
 
 # School-YOLO
 A project to assist Hwa Chong in automating their Covid-19 monitoring operations in the canteen
@@ -55,7 +55,8 @@ This flag is to check whether user would like to include a visual representation
 ## If Social Distancing Flag is set to False (You answered no to the 3rd qn asked)
 ![best-output](display/bestoutput.gif)
 
-# Dependencies
+# Dependencies 
+This code can only be run on Python 3, with the following dependencies:
 ```
     NumPy
     sklearn
