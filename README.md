@@ -49,11 +49,11 @@ This flag is to check whether user would like to include a visual representation
 ## If Social-Distancing Flag is set to true (You answered yes to the 3rd qn asked)
 2 files, named detections.mov and minimap.mov
 
-![detections](detections.gif)
+![detections](display/detections.gif)
 
-![minimap](minimap.gif)  
+![minimap](display/minimap.gif)  
 ## If Social Distancing Flag is set to False (You answered no to the 3rd qn asked)
-![best-output](bestoutput.gif)
+![best-output](display/bestoutput.gif)
 
 # Dependencies
 ```
