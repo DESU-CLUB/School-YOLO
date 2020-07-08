@@ -1,5 +1,5 @@
 <div align = 'center'><img src ='display/logo.png' alt= 'HCIRS LOGO'></div>
-
+<br/>
 
 <div align = 'center'>Made by Soh Wei Kiat, Warren Low Keng Hoong, Zhou Chengyang and Xue Yuqing</div>
 
