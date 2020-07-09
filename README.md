@@ -7,10 +7,11 @@
 A project to assist Hwa Chong in automating their Covid-19 monitoring operations in the canteen
 
 # Quick Start
- Download YOLOv3 or tiny_yolov3 weights from [here](https://drive.google.com/file/d/1uvXFacPnrSMw6ldWTyLLjGLETlEsUvcE/view) (yolo.h5 model file with tf-1.4.0) , put it into model_data folder.
-
- Run the code with cmd (Recommended if your computer has a powerful GPU): 
+ 1) Download YOLOv3 or tiny_yolov3 weights from [here](https://drive.google.com/file/d/1uvXFacPnrSMw6ldWTyLLjGLETlEsUvcE/view) (yolo.h5 model file with tf-1.4.0) , put it into model_data folder.  
+ 2) cd to School YOLO folder  
+ 3) Run the code with cmd (Recommended if your computer has a powerful GPU): 
  ```
+     pip install -r requirements.txt
      python3 Combined_GUI.py
  ```
  After a while, the video files should be outputted in output_videos folder 
@@ -18,7 +19,7 @@ A project to assist Hwa Chong in automating their Covid-19 monitoring operations
  You can view the files named detections.mov and minimap.mov
  
  # Quick Start: (But its Colab for those without GPUs)
- 1) Git Clone Everything and upload into drive   
+ 1) Git Clone Everything and upload into drive 
  
  2) Upload main.ipynb onto Google Colab    
  
