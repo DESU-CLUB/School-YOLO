@@ -57,7 +57,7 @@ This flag is to check whether user would like to include a visual representation
 ![best-output](display/bestoutput.gif)
 
 # Dependencies 
-This code can only be run on Python 3, with the following dependencies:
+This code can only be run on Python 3.7, with the following dependencies:
 ```
 tensorflow==1.13.2 (Preferably Tensorflow 1.x, as Tensorflow 2 and above is not supported)
 numpy==1.18.1
