@@ -7,9 +7,8 @@
 A project to assist Hwa Chong in automating their Covid-19 monitoring operations in the canteen
 
 # Disambiguation
- The code written here is to check the social distancing of students and to detect the number of students in the canteen. 
+ The code written here is to check the social distancing of students and to detect the number of students in the canteen.  
  
- <br>
  To find the code where the students are tracked by the DEEPSORT algorithm, please head over to the branch found [here](https://github.com/DESU-CLUB/School-YOLO/tree/deepsort-tracker/deep_sort)
 
 
