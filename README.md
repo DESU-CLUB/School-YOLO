@@ -6,6 +6,10 @@
 # School-YOLO
 A project to assist Hwa Chong in automating their Covid-19 monitoring operations in the canteen
 
+# Disambiguation
+ To find the code where the students are tracked by the DEEPSORT algorithm, please head over to the branch found (https://github.com/DESU-CLUB/School-YOLO/tree/deepsort-tracker/deep_sort)[here]
+
+
 # Quick Start
  1) Download YOLOv3 or tiny_yolov3 weights from [here](https://drive.google.com/file/d/1uvXFacPnrSMw6ldWTyLLjGLETlEsUvcE/view) (yolo.h5 model file with tf-1.4.0) , put it into model_data folder.  
  2) cd to School YOLO folder  
