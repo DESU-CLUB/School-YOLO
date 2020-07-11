@@ -9,8 +9,8 @@
    ```
 # Output
 There are 2 outputs, original video with bounding boxes and labels, and minimalist video with just the labels. <br>
-![original](output-yolov3.gif)
-![minimalist](simplified.gif)
+![original](media/output-yolov3.gif)
+![minimalist](media/simplified.gif)
 
 
 3. Run School-YOLO on [Google Colab](https://colab.research.google.com/drive/1239pS4IhzAmHlQz2gW7yc7DgB3cTUeNB?authuser=2#scrollTo=6wk1pUSMluFc) <br>
