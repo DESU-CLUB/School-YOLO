@@ -2,7 +2,7 @@
 
 1. Download YOLOv3 or tiny_yolov3 weights from [here](https://drive.google.com/file/d/1uvXFacPnrSMw6ldWTyLLjGLETlEsUvcE/view?usp=sharing) (yolo.h5 model file with tf-1.4.0) , put it into model_data folder.
 
-2. Run YOLO_DEEP_SORT with cmd :
+2. Run School-YOLO with cmd :
    ```
    python3 demo.py
    python3 minimalist.py
@@ -12,6 +12,16 @@ There are 2 outputs, original video with bounding boxes and labels, and minimali
 ![original](output-yolov3.gif)
 ![minimalist](simplified.gif)
 
+
+3. Run School-YOLO on [Google Colab](https://colab.research.google.com/drive/1239pS4IhzAmHlQz2gW7yc7DgB3cTUeNB?authuser=2#scrollTo=6wk1pUSMluFc) <br>
+```
+!git clone https://github.com/DESU-CLUB/School-YOLO/tree/deepsort-tracker
+%cd <path to video> #replace sample_input.mp4
+%tensorflow_version 1.x
+
+!python3 demo.py
+!python3 minimalist.py
+```
 
 
 
