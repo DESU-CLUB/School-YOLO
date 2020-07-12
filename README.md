@@ -13,7 +13,7 @@ A project to assist Hwa Chong in automating their Covid-19 monitoring operations
 
 
 # Quick Start
- 1) Download YOLOv3 or tiny_yolov3 weights from [here](https://drive.google.com/file/d/1uvXFacPnrSMw6ldWTyLLjGLETlEsUvcE/view) (yolo.h5 model file with tf-1.4.0) , put it into model_data folder.  
+ 1) Download YOLOv3 weights from [here](https://drive.google.com/file/d/1uvXFacPnrSMw6ldWTyLLjGLETlEsUvcE/view) (yolo.h5 model file with tf-1.4.0) , put it into model_data folder.  
  2) cd to School YOLO folder  
  3) Run the code with cmd (Recommended if your computer has a powerful GPU): 
  ```
@@ -25,12 +25,12 @@ A project to assist Hwa Chong in automating their Covid-19 monitoring operations
  You can view the files named detections.mov and minimap.mov
  
  # Quick Start: (But its Colab for those without GPUs)
- 1) Git Clone Everything and upload into drive 
- 
- 2) Upload main.ipynb onto Google Colab    
- 
- 3) Follow the steps there to run the code 
- 
+ You can use this file [here](https://colab.research.google.com/drive/1ajZg1GMya7cyMzncmQe0aks0Gcc9xuMy?usp=sharing) as a reference
+ 1) Remember to make a copy of the file before starting    
+    To do so, go to 'File' (Right under name of the Colab file)   
+    Click on 'Save a copy in Drive'
+ 2) Put a sample video in /input_videos  
+ 3) Run it with the instructions given
 
 # User Input required  
 1) Video Path Flag
@@ -65,7 +65,7 @@ This flag is to check whether user would like to include a visual representation
 # Dependencies 
 This code can only be run on Python 3.7, with the following dependencies:
 ```
-tensorflow==1.13.2 (Preferably Tensorflow 1.x, as Tensorflow 2 and above is not supported)
+tensorflow==1.13.2 
 numpy==1.18.1
 opencv_python==4.1.2.30
 Keras==2.3.1
@@ -77,8 +77,7 @@ scikit_learn==0.23.1
 ```
 
 # Acknowledgements
-Most of the code were pulled from QiDian's respository found [here](https://github.com/Qidian213/deep_sort_yolov3) <br>
-Also, StackOverflow was also consulted in the making of this repository
+Some baseline code was pulled from QiDian's respository found [here](https://github.com/Qidian213/deep_sort_yolov3) <br>
 
 # License
 ## MIT LICENSE
