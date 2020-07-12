@@ -29,7 +29,8 @@ A project to assist Hwa Chong in automating their Covid-19 monitoring operations
  1) Remember to make a copy of this file before starting    
     To do so, go to 'File' (Right under name of the Colab file)   
     Click on 'Save a copy in Drive'
- 2) Run it with the instructions given
+ 2) Download YOLOv3 weights from [here](https://drive.google.com/file/d/1uvXFacPnrSMw6ldWTyLLjGLETlEsUvcE/view) (yolo.h5 model file with tf-1.4.0) , put it into model_data folder in your Drive.  
+ 3) Run it with the instructions given
 
 # User Input required  
 1) Video Path Flag
