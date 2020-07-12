@@ -13,7 +13,7 @@ A project to assist Hwa Chong in automating their Covid-19 monitoring operations
 
 
 # Quick Start
- 1) Download YOLOv3 or tiny_yolov3 weights from [here](https://drive.google.com/file/d/1uvXFacPnrSMw6ldWTyLLjGLETlEsUvcE/view) (yolo.h5 model file with tf-1.4.0) , put it into model_data folder.  
+ 1) Download YOLOv3 weights from [here](https://drive.google.com/file/d/1uvXFacPnrSMw6ldWTyLLjGLETlEsUvcE/view) (yolo.h5 model file with tf-1.4.0) , put it into model_data folder.  
  2) cd to School YOLO folder  
  3) Run the code with cmd (Recommended if your computer has a powerful GPU): 
  ```
@@ -64,7 +64,7 @@ This flag is to check whether user would like to include a visual representation
 # Dependencies 
 This code can only be run on Python 3.7, with the following dependencies:
 ```
-tensorflow==1.13.2 (Preferably Tensorflow 1.x, as Tensorflow 2 and above is not supported)
+tensorflow==1.13.2 
 numpy==1.18.1
 opencv_python==4.1.2.30
 Keras==2.3.1
@@ -76,8 +76,7 @@ scikit_learn==0.23.1
 ```
 
 # Acknowledgements
-Most of the code were pulled from QiDian's respository found [here](https://github.com/Qidian213/deep_sort_yolov3) <br>
-Also, StackOverflow was also consulted in the making of this repository
+Some baseline code was pulled from QiDian's respository found [here](https://github.com/Qidian213/deep_sort_yolov3) <br>
 
 # License
 ## MIT LICENSE
