@@ -25,7 +25,7 @@ A project to assist Hwa Chong in automating their Covid-19 monitoring operations
  You can view the files named detections.mov and minimap.mov
  
  # Quick Start: (But its Colab for those without GPUs)
-  Using [Google Colab](https://colab.research.google.com/drive/1ajZg1GMya7cyMzncmQe0aks0Gcc9xuMy?usp=sharing): 
+  ## Using [Google Colab](https://colab.research.google.com/drive/1ajZg1GMya7cyMzncmQe0aks0Gcc9xuMy?usp=sharing): 
  1) Remember to make a copy of the file before starting    
     To do so, go to 'File' (Right under name of the Colab file)   
     Click on 'Save a copy in Drive'
