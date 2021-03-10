@@ -1,7 +1,7 @@
 <p align="center"><img src ='display/logo.png' alt= 'HCIRS LOGO' height = 300 width = 600></p>
 
 
-<p align="center">>>Made by [Joven Soh](https://github.com/JovenSoh), [DESU-CLUB](https://github.com/DESU-CLUB), [MartinZhouuuuu](https://github.com/MartinZhouuuuu) and [Waldeinsamkeit-917](https://github.com/Waldeinsamkeit-917)</p>
+<p align="center">>>Made by <a link = https://github.com/JovenSoh>Joven Soh</a>, <a link = https://github.com/DESU-CLUB>DESU-CLUB</a>, <a link = https://github.com/MartinZhouuuuu>MartinZhouuuuu</a> and <a link = https://github.com/Waldeinsamkeit-917>Waldeinsamkeit-917</a></p>
 
 # School-YOLO
 A project to assist Hwa Chong in automating their Covid-19 monitoring operations in the canteen
@@ -78,6 +78,12 @@ scikit_learn==0.23.1
 
 # Acknowledgements
 Some baseline code was pulled from QiDian's respository found [here](https://github.com/Qidian213/deep_sort_yolov3) <br>
+
+This project was made by:
+[Joven Soh](https://github.com/JovenSoh)
+[Warren Low](https://github.com/DESU-CLUB)
+[Zhou Chengyang](https://github.com/MartinZhouuuuu)
+[Xue Yuqing](https://github.com/Waldeinsamkeit-917)
 
 # License
 ## MIT LICENSE
