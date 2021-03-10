@@ -1,7 +1,7 @@
 <p align="center"><img src ='display/logo.png' alt= 'HCIRS LOGO' height = 300 width = 600></p>
 
 
-<p align="center">>>Made by Joven Soh, DESU-CLUB, MartinZhouuuuu and Waldeinsamkeit-917</p>
+<p align="center">>>Made by [Joven Soh](https://github.com/JovenSoh), [DESU-CLUB](https://github.com/DESU-CLUB), [MartinZhouuuuu](https://github.com/MartinZhouuuuu) and [Waldeinsamkeit-917](https://github.com/Waldeinsamkeit-917)</p>
 
 # School-YOLO
 A project to assist Hwa Chong in automating their Covid-19 monitoring operations in the canteen
