@@ -79,8 +79,8 @@ scikit_learn==0.23.1
 # Acknowledgements
 Some baseline code was pulled from QiDian's respository found [here](https://github.com/Qidian213/deep_sort_yolov3) <br>
 
-This project was made by:
-[Joven Soh](https://github.com/JovenSoh)<br>
+This project was made by: <br>
+[Soh Wei Kiat](https://github.com/JovenSoh)<br>
 [Warren Low](https://github.com/DESU-CLUB)<br>
 [Zhou Chengyang](https://github.com/MartinZhouuuuu)<br>
 [Xue Yuqing](https://github.com/Waldeinsamkeit-917)<br>
