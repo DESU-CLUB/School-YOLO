@@ -1,7 +1,7 @@
 <p align="center"><img src ='display/logo.png' alt= 'HCIRS LOGO' height = 300 width = 600></p>
 
 
-<p align="center">>>Made by <a link = https://github.com/JovenSoh>Joven Soh</a>, <a link = https://github.com/DESU-CLUB>DESU-CLUB</a>, <a link = https://github.com/MartinZhouuuuu>MartinZhouuuuu</a> and <a link = https://github.com/Waldeinsamkeit-917>Waldeinsamkeit-917</a></p>
+<p align="center">>>Made by <a href = https://github.com/JovenSoh>Joven Soh</a>, <a href = https://github.com/DESU-CLUB>DESU-CLUB</a>, <a href = https://github.com/MartinZhouuuuu>MartinZhouuuuu</a> and <a href = https://github.com/Waldeinsamkeit-917>Waldeinsamkeit-917</a></p>
 
 # School-YOLO
 A project to assist Hwa Chong in automating their Covid-19 monitoring operations in the canteen
@@ -80,10 +80,10 @@ scikit_learn==0.23.1
 Some baseline code was pulled from QiDian's respository found [here](https://github.com/Qidian213/deep_sort_yolov3) <br>
 
 This project was made by:
-[Joven Soh](https://github.com/JovenSoh)
-[Warren Low](https://github.com/DESU-CLUB)
-[Zhou Chengyang](https://github.com/MartinZhouuuuu)
-[Xue Yuqing](https://github.com/Waldeinsamkeit-917)
+[Joven Soh](https://github.com/JovenSoh)<br>
+[Warren Low](https://github.com/DESU-CLUB)<br>
+[Zhou Chengyang](https://github.com/MartinZhouuuuu)<br>
+[Xue Yuqing](https://github.com/Waldeinsamkeit-917)<br>
 
 # License
 ## MIT LICENSE
